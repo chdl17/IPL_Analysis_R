@@ -9,7 +9,7 @@ In this repository, you will find different R scripts to perform Data Exploratio
 
 Please note that this is just a sample project and the dataset is not updated. The analysis and model might not be accurate since the dataset is not reflecting the most recent data.
 
-We hope you find this repository useful for your own IPL data analysis projects. Happy coding!
+I hope you find this repository useful for your own IPL data analysis projects. Happy coding!
 
 
 
