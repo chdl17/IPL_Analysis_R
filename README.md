@@ -24,7 +24,7 @@ Nestled within this repository is a treasure chest of IPL data, painstakingly ga
 But wait, before you charge onto the field, you need your gear:
 
 - **R and R Studio**: The dynamic duo that you must have on your side. If they're not already in your lineup, download and install them pronto from their official websites.
-- **Kaggle Dataset**: Secure your ticket to the cricketing carnival. Download the IPL dataset from Kaggle, place it in the same directory as your R code, and let the game begin. The dataset is your MVP and can be found [right here](https://www.kaggle.com/manasgarg/ipl).
+- **Kaggle Dataset**: Secure your ticket to the cricketing carnival. Download the IPL dataset from Kaggle, place it in the same directory as your R code, and let the game begin.
 
 With the basics in place, you're all set to embark on an exhilarating adventure through the IPL's data-rich landscapes. Open your R code in R Studio, execute the code snippets, and let the magic unfold.
 
