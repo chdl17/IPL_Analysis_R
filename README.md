@@ -7,7 +7,6 @@
 4. [What You'll Find Here](#what-youll-find-here)
 5. [Important Notes](#important-notes)
 6. [Get Started](#get-started)
-7. [Contact Information](#contact-information)
 
 <a name="introduction"></a>
 ## 1. Introduction
@@ -49,10 +48,3 @@ Remember, this is a sample project, and the dataset isn't the latest scoop. So, 
 
 So, what are you waiting for? It's time to ignite your R environment, load that data, and let the scripts do their magic. The IPL's secrets are within your grasp, and discoveries await. Happy coding, and may your IPL data journey be as electrifying as a last-ball finish!
 
-<a name="contact-information"></a>
-## 7. Contact Information 📧
-
-Got questions, feedback, or itching to contribute? Feel free to reach out. Let's share the IPL passion and explore cricketing frontiers together! 🙌
-
-- [GitHub Repository](https://github.com/your-username/IPL_Analysis_R)
-- [Email](mailto:youremail@example.com)
