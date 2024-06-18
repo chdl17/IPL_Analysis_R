@@ -1,6 +1,6 @@
 ---
 title: "IPL Analysis"
-author: "Maruthi Sai Phani Teja Chadalapaka"
+author: "Maruthi Sai Phani Teja Chadalapaka."
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
