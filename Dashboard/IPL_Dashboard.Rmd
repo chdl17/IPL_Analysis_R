@@ -1,6 +1,6 @@
 ---
 title: "IPL Analysis"
-author: "Maruthi Sai Phani Teja, Mounika Balreddyguda"
+author: "Maruthi Sai Phani Teja"
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
